@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>🌏It said the life is a story, are you ready with your pen ? </h3>
+<h3>"🌏 It said the life is a story, are you ready with your pen ? "</h3>
 
 
 <h2>🧲 My info</h2>
