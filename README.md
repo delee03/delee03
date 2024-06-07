@@ -46,14 +46,14 @@ Here are some ideas to get you started:
   <br>
   <h2>⚙ Languages & Tools</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react,nextjs,figma,github,postman,jquery)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,spring,nodejs,nestjs,mysql,docker,graphql,idea,vscode	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react,nextjs,figma,github,postman,jquery)](#)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,spring,nodejs,nestjs,mysql,docker,graphql,idea,vscode	)](#)
 <br>
 <br>
  <h2>🔭 Github Stats </h2>
 <!--Ảnh streak -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="#">
     <img src="https://streak-stats.demolab.com?user=delee03&theme=radical&border_radius=4.8&exclude_days=Sun&card_width=530&card_height=200" alt="GitHub Streak" />
   </a>
 </p>
