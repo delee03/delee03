@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 
 <h2>🧲 My info</h2>
 <br>
-
+<!--Ảnh GIF coding-->
 <div>
       <img  align="right" alt="Coding" width="400px" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
+<!--Thẻ số lượt view-->
 <img src="https://camo.githubusercontent.com/1f1772f0cd07775a46b3ef2de0e4737a3d73f6488f25580bd4385bbef0af3b9d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d7568616d6d6564682d736861646972266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"
   width="15%">
 
@@ -49,5 +50,39 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,spring,nodejs,nestjs,mysql,docker,graphql,idea,vscode	)](https://skillicons.dev)
 <br>
 <br>
+ <h2>🔭 Github Stats </h2>
+<!--Ảnh streak -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=delee03&theme=radical&border_radius=4.8&exclude_days=Sun&card_width=530&card_height=200" alt="GitHub Streak" />
+  </a>
+</p>
 <br>
+<!--Thống kê và most used languages-->
+<div>
+ <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delee03&layout=compact&theme=radical&height=250" alt="Top Langs" />
+</div>
+
+<div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=delee03&show_icons=true&theme=radical" alt="Anurag's GitHub stats" /> 
+</div>   
+<br>
+<br>
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h2>⚡Github Trophy</h2>
+<p align="left">
+  <a href="#">
+    <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=onedark&row=1" />
+  </a>
+</p>
+<br>
+
+
+
 ![Delee03's GitHub Banner](https://images.unsplash.com/photo-1614624532983-4ce03382d63d?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
