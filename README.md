@@ -27,9 +27,14 @@ Here are some ideas to get you started:
       <img  align="right" alt="Coding" width="400px" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 <!--Thẻ số lượt view-->
-<img src="https://camo.githubusercontent.com/1f1772f0cd07775a46b3ef2de0e4737a3d73f6488f25580bd4385bbef0af3b9d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d7568616d6d6564682d736861646972266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"
-  width="15%">
-
+<div align="left">
+      <img src="https://camo.githubusercontent.com/1f1772f0cd07775a46b3ef2de0e4737a3d73f6488f25580bd4385bbef0af3b9d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d7568616d6d6564682d736861646972266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"
+        width="15%">
+         <img src="https://img.shields.io/github/stars/delee03?style=flat&logo=github" alt="Stars"/> &nbsp;
+          <img src="https://img.shields.io/github/followers/delee03?style=flat&logo=github" alt="Followers"/> &nbsp;
+          <img src="https://img.shields.io/github/last-commit/delee03/delee03" alt="Last commit"/> &nbsp;
+          <img src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat&color=brightgreen" alt="Forks"/>
+</div>
  <ul align="left" >
          <li>😃 I’m currently becoming Fullstack Developer Step by Step</li>
          <li>🌱 I’m currently learning at <a href="https://hutech.edu.vn/" target="_blank" rel="noopener">HUTECH University</a> and <a href="https://cybersoft.edu.vn/" target="_blank"                       rel="noopener">Cybersoft Academy</a>
@@ -49,6 +54,14 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react,nextjs,figma,github,postman,jquery)](#)
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,spring,nodejs,nestjs,mysql,docker,graphql,idea,vscode	)](#)
 <br>
+<br>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/delee03/delee03/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/delee03/delee03/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/delee03/delee03/output/github-contribution-grid-snake.svg" width="100%" height="auto">
+</picture>
+
 <br>
  <h2>🔭 Github Stats </h2>
 <!--Ảnh streak -->
