@@ -33,15 +33,17 @@ Here are some ideas to get you started:
          <img src="https://img.shields.io/github/stars/delee03?style=flat&logo=github" alt="Stars"/> &nbsp;
           <img src="https://img.shields.io/github/followers/delee03?style=flat&logo=github" alt="Followers"/> &nbsp;
           <img src="https://img.shields.io/github/last-commit/delee03/delee03" alt="Last commit"/> &nbsp;
-          <img src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat&color=brightgreen" alt="Forks"/>
+          <img src="https://img.shields.io/github/forks/delee03/simple-sqlite?style=flat&color=brightgreen" alt="Forks"/>
 </div>
  <ul align="left" >
-         <li>😃 I’m currently becoming Fullstack Developer Step by Step</li>
+         <li>😃 I’m currently becoming a Cloud Engineer Step by Step</li>
          <li>🌱 I’m currently learning at <a href="https://hutech.edu.vn/" target="_blank" rel="noopener">HUTECH University</a> and <a href="https://cybersoft.edu.vn/" target="_blank"                       rel="noopener">Cybersoft Academy</a>
+         </li>
+         <li>🌱 I’m currently as intern at <a href="https://aws.amazon.com/vi/" target="_blank" rel="noopener">Amazon Web Services Viet Nam</a> 
          </li>
          <li>💬 Ask me about SOME stack and related technologies</li>
          <li> 📫 How to reach me: phamphat2003vn@gmail.com</li>
-         <li>⚡ Fun fact: Guitar, Football..</li>
+         <li>⚡ Fun fact: Guitar, Football, Extrovert person..</li>
   </ul>
   <h3>📌 Connect with me</h3>
   <a href="#!"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"></a>
@@ -52,7 +54,7 @@ Here are some ideas to get you started:
   <h2>⚙ Languages & Tools</h2>
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react,nextjs,figma,github,postman,jquery)](#)
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,spring,nodejs,nestjs,mysql,docker,graphql,idea,vscode	)](#)
+[![My Skills](https://skillicons.dev/icons?i=aws,ts,dotnet,cs,java,spring,nodejs,nestjs,mysql,docker,graphql)](#)
 <br>
 <br>
 
