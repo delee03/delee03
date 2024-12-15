@@ -1,4 +1,4 @@
-<h1>Hey, Have a good day ! I’m <a href="https://www.facebook.com/phatdeptrai.lm.3">Thuận Phát</a>👋 </h1> 
+<h1>Hey, Have a good day ! You can call me <a href="https://www.facebook.com/phatdeptrai.lm.3">Fuderr Phạm</a>👋 </h1> 
 
 
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
          <img src="https://img.shields.io/github/stars/delee03?style=flat&logo=github" alt="Stars"/> &nbsp;
           <img src="https://img.shields.io/github/followers/delee03?style=flat&logo=github" alt="Followers"/> &nbsp;
           <img src="https://img.shields.io/github/last-commit/delee03/delee03" alt="Last commit"/> &nbsp;
-          <img src="https://img.shields.io/github/forks/delee03/simple-sqlite?style=flat&color=brightgreen" alt="Forks"/>
+          <img src="https://img.shields.io/github/forks/delee03" alt="Forks"/>
 </div>
  <ul align="left" >
          <li>😃 I’m currently becoming a Cloud Engineer Step by Step</li>
