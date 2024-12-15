@@ -53,8 +53,8 @@ Here are some ideas to get you started:
   <br>
   <h2>⚙ Languages & Tools</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react,nextjs,figma,github,postman,jquery)](#)
-[![My Skills](https://skillicons.dev/icons?i=aws,ts,dotnet,cs,java,spring,nodejs,nestjs,mysql,docker,graphql)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,sass,react,nextjs,figma,github,postman,prisma,linux)](#)
+[![My Skills](https://skillicons.dev/icons?i=aws,ts,dotnet,cs,java,spring,express,nestjs,mysql,mongodb,docker,graphql)](#)
 <br>
 <br>
 
