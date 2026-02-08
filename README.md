@@ -74,15 +74,16 @@ Here are some ideas to get you started:
 </p>
 <br>
 <!--Thống kê và most used languages-->
-<div>
- <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delee03&layout=compact&theme=radical&height=250" alt="Top Langs" />
-</div>
 
-<div>
+<!-- <div>
+ <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delee03&layout=compact&theme=radical&height=250" alt="Top Langs" />
+</div> -->
+
+<!-- <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=delee03&show_icons=true&theme=radical" alt="Delee03's GitHub stats" /> 
-</div>   
-<br>
-<br>
+</div>    -->
+<!-- <br>
+<br> -->
   
 <br>
 <br>
