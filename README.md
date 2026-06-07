@@ -15,12 +15,16 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-- 😃 I'm currently becoming a **Cloud Engineer** step by step
-- 🎓 Studying at <a href="https://hutech.edu.vn/" target="_blank" rel="noopener">HUTECH University</a> and <a href="https://cybersoft.edu.vn/" target="_blank" rel="noopener">Cybersoft Academy</a>
-- 💼 Intern at <a href="https://aws.amazon.com/vi/" target="_blank" rel="noopener">Amazon Web Services Vietnam</a>
-- 💬 Ask me about the **SOME stack** and related technologies
-- 📫 Reach me at: **phamphat2003vn@gmail.com**
-- ⚡ Fun fact: Guitar 🎸, Football ⚽, and an Extrovert person
+- 🚀 **Software Engineer** at <a href="https://katalon.com/" target="_blank" rel="noopener">Katalon Inc</a> — working on AI-Native products (Scout)
+- 🎓 Graduated from <a href="https://hutech.edu.vn/" target="_blank" rel="noopener">HUTECH University</a> — Software Engineering (GPA: 3.66/4.0)
+- ☁️ **AWS Certified** (Solutions Architect Associate, GenAI Developer Professional, AI Practitioner, Cloud Practitioner)
+- 🏗️ Specialized in **AI-native apps, Cloud Architecture (AWS), and Full-stack Development**
+- 🛠️ CloudOps: AWS (Lambda, ECS, EKS, Bedrock, AgentCore, NovaAct), Terraform, Docker, K8s, ArgoCD
+- 💡 AI & Automation: Mastra, MCP, CopilotKit, N8N, AI-SDK
+- 🏆 VPBank Hackathon 2025 Finalist | IT Got Talent 1st Prize
+- 📫 Reach me at: **phamtienthuanphat.it@gmail.com**
+- 🌐 Portfolio: <a href="https://phamtienthuanphat.vercel.app/" target="_blank" rel="noopener">phamtienthuanphat.vercel.app</a>
+- ⚡ Fun fact: Guitar 🎸, Football ⚽, Running 🏃, and Buddhism & Spirituality 🧘
 
 <br clear="right"/>
 
@@ -32,7 +36,7 @@
   <a href="https://www.facebook.com/ericpham03" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:phamphat2003vn@gmail.com">
+  <a href="mailto:phamtienthuanphat.it@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/delee03" target="_blank">
